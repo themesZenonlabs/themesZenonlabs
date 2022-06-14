@@ -1,3 +1,4 @@
+.diteail_title { clear: both; font-size: 48px; margin: 80px auto 60px; font-family: 'Lucida Bright'; max-width: 840px; padding: 0 20px;}
 .is-blog .post-view .div_overlay { display: none;}
 .is-blog .post-view .post-entry .diteail_title { clear: both; font-size: 48px; margin: 80px auto 60px; font-family: 'Lucida Bright'; max-width: 840px; padding: 0 20px;}
 .is-blog .post-view .post-entry .post-content .full_image_container { display: block; width: 100%; margin: 0 0 65px; padding: 0; clear: both; overflow: hidden;}
